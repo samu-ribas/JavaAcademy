@@ -1,5 +1,4 @@
 package academy.introduction;
-import java.util.Date;
 
 /**
  * exercises
